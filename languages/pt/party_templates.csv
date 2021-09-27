@@ -1,0 +1,321 @@
+pt_none|nenhum
+pt_rescued_prisoners|Prisioneiros Resgatados
+pt_enemy|Inimigo
+pt_hero_party|Grupo do Herói
+pt_village_defenders|Defensores da Aldeia
+pt_cattle_herd|Rebanho de Gado
+pt_looters|Ladrões
+pt_perisno_pilgrims|Peregrinos de Perisno
+pt_scholars|Estudiosos
+pt_manhunters|Patrulheiros de Fronteira
+pt_steppe_bandits|Invasores Saccar
+pt_taiga_bandits|Rastreador da Neve
+pt_desert_bandits|Caminhante da Areia
+pt_forest_bandits|Criminosos Foras da Lei
+pt_mountain_bandits|Prisioneiros Fugidos
+pt_sea_raiders|Invasores Volheere
+pt_imperial_scout|Batedores Imperiais
+pt_crusader_knights|Santos Cruzados
+pt_aethling_lords|Aethlings Divinos
+pt_rafklazan|Rei Rafklazan
+pt_nibor|Capuz de Nibor
+pt_nibor_bandits|Bandidos de Nibor
+pt_foreigners|Invasores Estrangeiros
+pt_cult_assassins|Assassinos Ral'Daiun
+pt_hakkon_inquisitors|Inquisidores Hakkon
+pt_falki|Illica Falki
+pt_amazons|Sedutores Ankars
+pt_eagle_brotherhood|Cavaleiros da Águia
+pt_eagle_brotherhood1|Cavaleiros da Águia
+pt_eagle_brotherhood2|Cavaleiros da Águia
+pt_demon_worshippers|Adoradores de Grazir
+pt_demon_worshippers1|Adoradores de Grazir
+pt_demon_worshippers2|Adoradores de Grazir
+pt_demonarmy|Exército de Grazir
+pt_eaglearmy|Grupo de Guerra da Águia
+pt_zolona|Zolona
+pt_ulfheonar|Ulfheonar
+pt_zeladeck|Zeladeck, o Escolhido
+pt_lymbard|Cavaleiros Lymbardianos
+pt_desouk|Escravistas Desouk
+pt_rivermen|Os Homens dos Rios
+pt_femmercenaries|Bando de Guerra de Mercenárias Foras da Lei
+pt_mercenaries|Bando de Guerra de Mercenários Foras da Lei
+pt_wolf_knights|Cavaleiros Lobo
+pt_wolfarmy|Grupo de Guerra dos Cavaleiros Lobo
+pt_firstlegion|A Terceira Legião
+pt_legionscout|Batedores da Terceira Legião
+pt_legionpatrol|Patrulha da Terceira Legião
+pt_geldar_scouts|Batedores Geldarin
+pt_geldar_infantry|Contingente de Infantaria Geldarin
+pt_geldar_warparty|Grupo de Guerra Geldarin
+pt_geldar_rangers|Atiradores Geldarin
+pt_geldar_army|Exército Geldarin
+pt_valahir_people|Povo de Valahir
+pt_onishi|Onishi
+pt_yachamoci|General Yachamoci
+pt_torlan|Elite Real de Torlan
+pt_amara|Alto Sacerdotes do Dragão
+pt_zengi|Mercenários Elefante de Drahara
+pt_culgrah|Elite do Aethling Divino
+pt_eli_elite|Elite Elintorana
+pt_esarion|Alta Inquisição Hakkon
+pt_grazir_worshippers_questtarget|Adoradores de Grazir
+pt_voldeburg_caravan|Caravana Voldeburg
+pt_local_lord|Lorde Local do Reich
+pt_gunnarr|Gunnarr
+pt_dpriests|Sacerdotes do Dragão
+pt_third_legion_attackers|Assassinos de Ral'Daiun
+pt_mercs_pary_1|Grupo Mercenário
+pt_mercs_pary_2|Mercenários Zann
+pt_mercs_pary_3|Companhia dos Monges Guerreiros
+pt_mercs_pary_4|Companhia das Monjas Guerreiras
+pt_mercs_pary_5|Companhia Mercenária de Nodah
+pt_mercs_pary_6|Companhia Mercenária de Sidhethon
+pt_mercs_pary_7|Companhia dos Guardas de Remus
+pt_mercs_pary_8|Companhia Hakkon do Leste
+pt_mercs_pary_9|Companhia Flibusteira de Aethling
+pt_mercs_pary_10|Companhia dos Cruzados
+pt_mercs_pary_11|Companhia Saqueadora
+pt_mercs_pary_12|Companhia de Cavaleiros Livres
+pt_mercs_pary_13|Empresa de Infantaria Livre
+pt_mercs_pary_14|Mercenários Desouk
+pt_mercs_pary_15|Companhia Mercenária Ukundu
+pt_mercs_pary_16|Companhia dos Assassinos
+pt_mercs_pary_17|Companhia Volheere
+pt_mercs_pary_18|Companhia das Caçadoras Ankars
+pt_mercs_pary_19|Companhia da Ordem da Fé
+pt_mercs_pary_20|Companhia de Mosoru
+pt_mercs_pary_21|Mercenários Aventureiros
+pt_mercs_pary_22|Companhia de Mulheres Mercenárias
+pt_mercs_pary_23|Companhia de Bakur
+pt_deserters|Desertores
+pt_merchant_caravan|Caravana Mercante
+pt_troublesome_bandits|Bandidos Problemáticos
+pt_bandits_awaiting_ransom|Bandidos Aguardando Resgate
+pt_kidnapped_girl|Donzela Sequestrada
+pt_village_farmers|Agricultores
+pt_spy_partners|Viajantes Comuns
+pt_unrem_travellers|Viajantes Comuns
+pt_runaway_serfs|Servos Fugitivos
+pt_spy|Plebeu Comum
+pt_sacrificed_messenger|Mensageiro Sacrificado
+pt_forager_party|Forrageadores
+pt_scout_party|Batedores
+pt_patrol_party|Patrulha
+pt_mercenary_patrol|Patrulha Mercenária
+pt_mercenaryguild_patrol|Patrulha Mercenária
+pt_minor_nobles|Nobres Menores
+pt_messenger_party|Mensageiro
+pt_raider_party|Salteadores
+pt_raider_captives|Salteadores Cativos
+pt_kingdom_caravan_party|Caravana
+pt_prisoner_train_party|Comboio de Prisioneiros
+pt_default_prisoners|Prisioneiros Padrão
+pt_routed_warriors|Inimigos Derrotados
+pt_deer_herd|Bando de Veados
+pt_boar_herd|Bando de Javalis
+pt_wolf_herd|Alcateia
+pt_coat_herd|Rebanho de Cabras
+pt_coatb_herd|Rebanho de Cabras
+pt_wilddonkey_herd|Rebanho de Burros Selvagens
+pt_center_reinforcements|Reforços
+pt_kingdom_hero_party|Grupo de Guerra
+pt_steppe_bandit_lair|Acampamento Saccar
+pt_taiga_bandit_lair|Caverna da Neve
+pt_desert_bandit_lair|Guarida dos Caminhantes da Areia
+pt_forest_bandit_lair|Acampamento dos Foras da Lei
+pt_mountain_bandit_lair|Residência do Escravo
+pt_sea_raider_lair|Porto de Desembarque Volheere
+pt_looter_lair|Esconderijo dos Sequestradores
+pt_leaded_looters|Bando de Ladrões
+pt_dplmc_spouse|{Sua Esposa/Seu Marido}
+pt_dplmc_gift_caravan|Sua Caravana
+pt_dplmc_recruiter|Recrutador
+pt_messenger_dreaded|Mensageiro
+pt_volheere|Salteadores Volheere
+pt_rogue_bandits|Bandidos Desonestos
+pt_zanns|Batedores Avançados Zann
+pt_volheerec|Batedores Nisaynianos Volheere
+pt_mhs|Assoladores de Bandidos
+pt_res|Fugitivos Esfarrapados
+pt_facdeserters|Desertores Perigosos
+pt_slave_rebellion|Escravos Rebeldes
+pt_freerogues|Cavaleiros Livres Desonestos
+pt_elites_fac1|Renegados Tolranianos
+pt_elites_fac3|Exército Rebelde de Draharan
+pt_elites_fac4|Rebeldes Maccavianos dos Novos Deuses
+pt_elites_fac6|Terceiros Legionários Rebeldes de Hakkon
+pt_elites_fac9|Huscarls Rebeldes
+pt_secretarians|Sacerdotes Sectários do Dragão
+pt_infidels|Infiéis
+pt_disbelievers|Descrentes
+pt_zann_vanguard|Vanguarda Zann
+pt_dangerous_escapees|Fugitivos Perigosos
+pt_marauding_bandits|Bandidos Saqueadores
+pt_demon_heretics|Adoradores de Grazir
+pt_tolranian_prisoner_train|Comboio de Prisioneiros Tolranianos
+pt_reich_prisoner_train|Comboio de Prisioneiros de Drachen
+pt_drahara_prisoner_train|Comboio de Prisioneiros de Draharan
+pt_tolranian_patrol|Patrulha Tolraniana
+pt_reich_patrol|Patrulha de Drachen
+pt_draharan_patrol|Patrulha de Drahara
+pt_maccavian_patrol|Patrulha Maccaviana
+pt_elintor_patrol|Patrulha Elintorana
+pt_hakkon_patrol|Patrulha Hakkon
+pt_perisno_patrol|Patrulha de Perisno
+pt_falcon_patrol|Patrulha do Reino do Falcão
+pt_valahir_patrol|Patrulha Valahir
+pt_kaikoth_patrol|Patrulha da Confederação Kaikoth
+pt_geldar_patrol|Patrulha Geldar
+pt_cretas_patrol|Patrulha Cretasan
+pt_kuulan_patrol|Patrulha Kuu-lan
+pt_bakhal_patrol|Patrulha Bakhal
+pt_sut_patrol|Patrulha Sut
+pt_aroulo_patrol|Patrulha Aroula
+pt_venetoran_patrol|Patrulha Venetoran
+pt_zann_patrol|Patrulha Zann
+pt_minor_nobles_1|Nobres Menores Tolranianos
+pt_minor_nobles_2|Nobres Menores de Drachen
+pt_minor_nobles_3|Draharanianos Montados a Camelo
+pt_minor_nobles_4|Cavaleiros de Aço Maccavianos
+pt_minor_nobles_4_1|Cavaleiros Negros Maccavianos
+pt_minor_nobles_5|Nobres Menores Elintoranos
+pt_minor_nobles_6|Nobres Menores Hakkonianos
+pt_minor_nobles_7|Nobres Menores de Perisno
+pt_minor_nobles_8|Nobres Menores do Falcão
+pt_minor_nobles_9|Nobres Menores Valahir
+pt_minor_nobles_10|Nobres Menores Kaikoth
+pt_minor_nobles_11|Nobres Menores Geldarinos
+pt_minor_nobles_12|Nobres Menores Cretasan
+pt_minor_nobles_13|Nobres Menores Kuu-lan
+pt_minor_nobles_14|Nobres Menores Bakhal
+pt_minor_nobles_15|Nobres Menores Sut
+pt_minor_nobles_16|Nobres Menores Aroulos
+pt_minor_nobles_17|Elites Venetoran
+pt_minor_nobles_zann|Elites Zann Elites
+pt_tolranian_scouts|Batedores Tolranianos
+pt_reich_scouts|Batedores do Reich
+pt_draharan_scouts|Batedores Draharanianos
+pt_maccavian_scouts|Batedores Maccavianos
+pt_elintor_scouts|Batedores Elintoranos
+pt_hakkon_scouts|Batedores Hakkonianos
+pt_perisno_scouts|Batedores de Perisno
+pt_falcon_scouts|Batedores do Falcão
+pt_valahir_scouts|Batedores Valahir
+pt_kaikoth_scouts|BatedoresKaikoth
+pt_bw_scouts|Batedores Geldarinos
+pt_cretas_scouts|Batedores Cretasan
+pt_kuulan_scouts|Batedores Kuu-lan
+pt_bakhal_scouts|Batedores Bakhal
+pt_sut_scouts|Batedores Sut
+pt_aroulo_scouts|Batedores Aroulos
+pt_venetoran_scouts|Batedores Venetoran
+pt_zann_scouts|Batedores Zann
+pt_tolranian_army|Exército Tolraniano
+pt_reich_army|Exército do Reich Army
+pt_draharan_army|Exército Draharaniano Army
+pt_maccavian_army|Exército Maccaviano Army
+pt_elintor_army|Exército Elintorano Army
+pt_hakkon_army|Exército Hakkon Army
+pt_perisno_army|Exército de Perisno Army
+pt_zann_infantry|Contingente Shun-Ha Zann
+pt_zann_archers|Arqueiros Sine Zann
+pt_zann_raiders|Saqueadores Khergia Zann
+pt_nemesis2|Espadas Contratadas
+pt_perisno_raiders|Saqueadores de Perisno
+pt_aroulo_raiders|Saqueadores Aroulianos
+pt_aroulo_war_party|Grupo de Guerra Arouliano
+pt_pioneers|Desbravadores Perisnoan
+pt_sekr|Bando de Sekr
+pt_rdahcim|Fora-da-lei de Rdahcim
+pt_red_immortals_1|Imortais Vermelhos
+pt_red_immortals_hero|Mactabilus
+pt_reinforcements|Reforços
+pt_wyvern_riders|Ginetes Wyvern
+pt_secretarian_scouts|Sacerdotes Sectários do Dragão
+pt_secretarian_scouts1|Sectários
+pt_kunika|Kunika
+pt_kalrind|Bando de Kalrind
+pt_peasant_rebels_ag|Camponeses Rebeldes
+pt_nadriela_zweibal|Nadriela Zweibal
+pt_siegfried|Ordem da Fé
+pt_dreaded_one|Pesadelo Temido
+pt_general_ialoch|Marechal Grazir Ialoch
+pt_lord_ceylius|Lorde Ceylius, o Desonroso
+pt_queen_aegea|Rainha Aegea
+pt_count_eton|Conte Eton de Lymbard
+pt_merchant_guildsman|Caravana da Guilda dos Mercadores
+pt_mosoru|Mosoru
+pt_nox_of_zephilli|Nox de Zephilli
+pt_volheerec_normanni|Salteadores Nisaynianos do Clã de Normanni
+pt_volheerec_varangian|Salteadores Nisaynianos do Clã de Varangian
+pt_volheerec_viking|Salteadores Nisaynianos do Clã de Viking
+pt_searchers_wolf|Procuradores Lobo
+pt_corpsman|Socorristas
+pt_blood_shamans|Xamãs de Sangue
+pt_perisno_pilgrims_commoners|Peregrinos de Perisno
+pt_perisno_pilgrims_deserters|Peregrinos Foras-da-Lei de Perisno
+pt_peasant_rebels_1|Camponeses Rebeldes
+pt_peasant_rebels_2|Camponeses Rebeldes
+pt_nibor_escort|Bandidos de Nibor
+pt_ulfheonar_escort|Salteadores de Ulfheonar
+pt_rafklazan_escort|Batedores do Rei Rafklazan
+pt_zolona_escort|Messiahs de Zolona
+pt_firstlegion_escort|Batedores de Atanos Octiem
+pt_zeladeck_escort|Zeladeck
+pt_dreaded_one_escort|Batedores do Pesadelo Temido
+pt_general_ialoch_escort|Batedores do Marechal Ialoch
+pt_nox_of_zephilli_escort|Batedores do Nox de Zephilli
+pt_lord_ceylius_escort|Batedores do Lorde Ceylius, o Desonroso
+pt_siegfried_escort|Batedores do Grande Paladino Siegfried
+pt_queen_aegea_escort|Batedores da Rainha Aegea
+pt_count_eton_escort|Batedores do Conde Eton
+pt_rogue_knight_1|Cavaleiro Desonesto
+pt_rogue_knight_2|Cavaleiro Desonesto
+pt_faction_rebels_1|Rebeldes
+pt_faction_rebels_2|Rebeldes
+pt_faction_rebels_3|Rebeldes
+pt_faction_rebels_4|Rebeldes
+pt_faction_rebels_5|Rebeldes
+pt_faction_rebels_6|Rebeldes
+pt_followers_old_gods|Seita dos Seguidores dos Deuses Antigos
+pt_followers_new_gods|Seita dos Seguidores dos Novos Deuses
+pt_general_scout|Imperial
+pt_horde_jin|Horda de Jin
+pt_horde_shun_ha|Horda de Shun-Ha
+pt_horde_sine|Horda de Sine
+pt_horde_khergia|Horda de Khergia
+pt_replenishment_horde_jin|Horda de Jin
+pt_replenishment_horde_shun_ha|Horda de Shun-Ha
+pt_replenishment_horde_sine|Horda de Sine
+pt_replenishment_horde_khergia|Horda de Khergia
+pt_scout_horde_jin|Horda
+pt_scout_horde_shun_ha|Horda
+pt_scout_horde_sine|Horda
+pt_scout_horde_khergia|Horda
+pt_ismael_army|Exército de Ismael
+pt_gukpard_army|Exército de Gukpard
+pt_mercenary_warband|Bando de Guerra Mercenário
+pt_mysterious_group|Grupo Misterioso
+pt_adventurers|Aventureiros
+pt_angry_mercenaries|Mercenários Furiosos
+pt_elderly_amazon|Amazona Anciã
+pt_persecutors_elderly_amazon|Perseguidoras Amazonas
+pt_squad_amazon|Esquadrão de Ankars
+pt_ankars_caravan|Caravana de Suprimentos Ankars
+pt_war_party_oksanamun|Amazona Anciã Oksanamun
+pt_joan_zwiebel_army|Exército de Joan Zwiebel
+pt_mercenaries_tolranian_spymaster|Exército Mercenário do Mestre Espião Tolraniano
+pt_mercenaries_scouts|Mercenário
+pt_zann_prisoner_train_party|Comboio de Prisioneiros Zann
+pt_group_masnerian_mercenaries|Grupo de Mercenários Masnerianos
+pt_group_freelancer_deserters|Grupo de Cavaleiros Livres Desertores
+pt_erganzung_fur_besatzung|Caravana de Cavaleiros Livres
+pt_erganzung_fur_patrouille|Caravana de Cavaleiros Livres
+pt_freelancer_patrol_town_19|Cavaleiro Livre
+pt_syabr_party|Grupo de Syabr
+pt_omelian_kasap_party|Companhia de Mercenários Nihonian
+pt_group_sut_giant|O Interessado no Caminho do Lobo
+pt_sea_traders|Mercadores Reais
+pt_klymorian_konqunites|Konqunites Klymorianos

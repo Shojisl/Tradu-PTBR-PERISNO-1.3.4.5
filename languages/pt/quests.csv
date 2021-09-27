@@ -1,0 +1,172 @@
+qst_deliver_message|Entregue a mensagem ao {s13}.
+qst_deliver_message_to_enemy_lord|Entregue a mensagem ao {s13}.
+qst_raise_troops|Reúna {reg1} {s14}.
+qst_escort_lady|Escolte {s13} a {s14}.
+qst_deal_with_bandits_at_lords_village|Salve a aldeia de {s15} dos bandidos saqueadores.
+qst_collect_taxes|Arrecade os impostos de {s3}.
+qst_hunt_down_fugitive|Cace {s4}.
+qst_bounty_1|Hunt down {s4}{***}
+qst_bounty_1_text|The {s9} of {s14} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.{***}
+qst_bounty_2|Hunt down {s4}{***}
+qst_bounty_2_text|The {s9} of {s14} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.{***}
+qst_bounty_3|Hunt down {s4}{***}
+qst_bounty_3_text|The {s9} of {s14} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.{***}
+qst_bounty_4|Hunt down {s4}{***}
+qst_bounty_4_text|The {s9} of {s14} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.{***}
+qst_bounty_5|Hunt down {s4}{***}
+qst_bounty_5_text|The {s9} of {s14} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.{***}
+qst_bounty_6|Hunt down {s4}{***}
+qst_bounty_6_text|The {s9} of {s14} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.{***}
+qst_kill_local_merchant|Assassine um mercador local em {s3}.
+qst_bring_back_runaway_serfs|Traga de volta os servos fugitivos.
+qst_follow_spy|Siga o espião.
+qst_capture_enemy_hero|Capture um Lorde de {s13}.
+qst_lend_companion|Empreste seu companheiro {s3} a {s9}.
+qst_collect_debt|Recolha a dívida que o {s3} deve ao {s9}.
+qst_incriminate_loyal_commander|Incrimine o leal comandante de {s13}, {s16}.
+qst_meet_spy_in_enemy_town|Encontre-se com o espião em {s13}.
+qst_capture_prisoners|Traga {reg1} prisioneiros {s3}.
+qst_deliver_love_letter|Leve a Mensagem para {s13}
+qst_deliver_letter|Entregue a carta de amor para {s13}
+qst_lend_surgeon|Empreste seu cirurgião, {s3}, ao {s1}.
+qst_follow_army|Siga o exército de {s9}.
+qst_report_to_army|Faça um relatório para o {s13}, o Marechal do Reino.
+qst_deliver_cattle_to_army|Entregue {reg3} cabeças de gado ao {s13}.
+qst_join_siege_with_army|Una-se ao cerco de {s14}.
+qst_screen_army|Observe o avanço do exército de {s13}.
+qst_scout_waypoints|Explore {s13}, {s14} e {s15}.
+qst_rescue_lord_by_replace|Resgate o {s13} de {s14}.
+qst_deliver_message_to_prisoner_lord|Entregue a mensagem para {s13} em {s14}.
+qst_duel_for_lady|Desafie o {s13} a um duelo por combate.
+qst_duel_courtship_rival|Desafie o {s13} a um duelo por combate (opcional).
+qst_duel_avenge_insult|Desafie o {s13} a um duelo por combate.
+qst_move_cattle_herd|Leve o rebanho de gado a {s13}.
+qst_escort_merchant_caravan|Escolte a caravana mercante até {s8}.
+qst_deliver_wine|Entregue {reg5} unidades de {s6} em {s4}.
+qst_troublesome_bandits|Cace os bandidos problemáticos.
+qst_kidnapped_girl|Pague aos bandidos pelo resgate da donzela. 
+qst_persuade_lords_to_make_peace|Certifique-se de que os dois Lordes não impeçam a paz.
+qst_deal_with_looters|Cuide dos saqueadores.
+qst_deal_with_night_bandits|Cuide dos bandidos noturnos.
+qst_deliver_grain|Leve trigo a {s3}.
+qst_deliver_cattle|Entregue {reg5} cabeças de gado em {s3}.
+qst_train_peasants_against_bandits|Treine os camponeses de {s13} para se defenderem contra os bandidos.
+qst_escort_scholars|Escolte os Estudiosos até {s8}
+qst_escort_scholars_text|Escolte os Estudiosos até a cidade de {s8}.
+qst_eliminate_bandits_infesting_village|Liberte a aldeia de {s7} dos bandidos saqueadores.
+qst_visit_lady|Visite uma dama.
+qst_formal_marriage_proposal|Proposta formal de matrimônio.
+qst_obtain_liege_blessing|Proposta formal de matrimônio.
+qst_wed_betrothed|Case-se com sua prometida.
+qst_wed_betrothed_female|Case-se com seu prometido.
+qst_join_faction|Jure lealdade ao {s1}.
+qst_rebel_against_kingdom|Ajude {s13} a reclamar o Trono do {s14}.
+qst_consult_with_minister|Consulte-se com seu ministro.
+qst_organize_feast|Organize um banquete.
+qst_resolve_dispute|Resolva uma disputa.
+qst_offer_gift|Adquira presentes.
+qst_denounce_lord|Denuncie um Lorde.
+qst_intrigue_against_lord|Conspire contra um Lorde.
+qst_track_down_bandits|Localize os bandidos.
+qst_track_down_provocateurs|Localize os desordeiros.
+qst_retaliate_for_border_incident|Tome represálias por um incidente fronteiriço.
+qst_raid_caravan_to_start_war|Ataque uma caravana neutra para provocar a guerra.
+qst_cause_provocation|Organize uma provocação contra um reino para que ele ataque outro.
+qst_rescue_prisoner|Resgate um prisioneiro.
+qst_destroy_bandit_lair|Destrua a guarida dos bandidos.
+qst_get_money_from_debtor|Collect Money from debtor in Suno{***}
+qst_raid_voldeburg_caravan|Raid the Reich Caravan traveling to Voldeberg.{***}
+qst_local_lord|Defeat the Local Lord{***}
+qst_defeat_dragon_priest|Defeat a Dragon Priest{***}
+qst_defeat_gunnarr|Defeat a dangerous Valahir Mercenary named Gunnarr.{***}
+qst_conquer_voldeburg|Conquer Voldeberg{***}
+qst_defeat_octiem|Attack the Third Legion Outpost{***}
+qst_new_venetor|Liberate the Third Legion to a new Venetor{***}
+qst_conquer_forniron|Conquer the Elintoran Capital of Forniron{***}
+qst_kill_svafar|Kill Svafar and avenge the death of Torsson{***}
+qst_return_to_hylr|Find a way to return to Hylr{***}
+qst_weeping_moon|Search for Zolona's family heirloom{***}
+qst_weeping_moon2|Find a way to repair Zolona's heirloom{***}
+qst_disbelievers|Destroy the party of Disbelievers{***}
+qst_infidels|Destroy the party of Infidels{***}
+qst_elites_fac1|Destroy Renegades{***}
+qst_mysteryquest|Missing Portrait{***}
+qst_krysannalovequest|Search for Kaiyrithe{***}
+qst_secretarians|Defeat the Secretarian Group of Priests.{***}
+qst_elites_fac3|Eradicate the Rebel Tribe{***}
+qst_elites_fac4|Defeat the Maccavian Rebels{***}
+qst_elites_fac6|Defeat the Hakkon Deserters{***}
+qst_elites_fac9|Defeat the Huscarl Rebels{***}
+qst_prisoners_for_ramun1|Capture some prisoners for Ramun{***}
+qst_demonquest1|Visit the Grazir Shrine{***}
+qst_escort_wyverns|Escort a Wyvern Party{***}
+qst_hunt_secretarians|Hunt Down Secretarians{***}
+qst_defeat_kunika|Defeat Kunika{***}
+qst_bountyquest1|Defeat a group of Dangerous Escapees{***}
+qst_bountyquest2|Defeat a group of Marauding Bandits{***}
+qst_bountyquest4|Defeat some Grazir Worshippers.{***}
+qst_remuserrand|Remus has asked you to deliver a short message to a lord.{***}
+qst_espada_beowulf|Find the Lyre of Yralis and the Biography of Emperor Thyceo{***}
+qst_aegis|You have decided to try and find the mythical Red Immortals and defeat them for loot.{***}
+qst_defeat_kalrind|Defeat the infamous Geldarin noble called Kalrind{***}
+qst_peasant_rebels_ag|Peasant Rebels and Adventurers{***}
+qst_ag_elf_1|Nadriela Zweibal{***}
+qst_oim_kidalovo_z_konyem|Half a Kingdom for a Wolf{***}
+qst_oim_kidalovo_z_konyem_text|Half a Kingdom for a Wolf{***}
+qst_talk_to_npc15|Talk to Shi Jin.{***}
+qst_defeat_horde_jin|Defeat the Horde of Jin.{***}
+qst_defeat_horde_khergia|Defeat the Horde of Khergia.{***}
+qst_defeat_horde_shun_ha|Defeat the Horde of Shun Ha.{***}
+qst_defeat_horde_sine|Defeat the Horde of Sine.{***}
+qst_talk_to_lord_town|Talk to the owner of {s8}.{***}
+qst_meutererstadt_quest|Revolution in Vinica.{***}
+qst_talk_to_mercenary_nihonian|Talk to Mercenary Nihonians.{***}
+qst_talk_to_omelian_kasap|Talk to Omelian Kasap.{***}
+qst_escort_ataman_omelian_kasap|Escort Ataman Omelian Kasap.{***}
+qst_rebellion_in_town|Crush the rebellion in Vinica.{***}
+qst_customer_in_strange_black_armor|Assist the customer wearing strange black armor.{***}
+qst_talk_to_customer_in_strange_black_armor|Talk to the person wearing strange black armor.{***}
+qst_zannbaumeister_syabr_quest|Renowned fortification builder Syabr.{***}
+qst_talk_to_zann_fort_captain|Talk to Zann Fort Captain.{***}
+qst_gesprach_mit_zann_ronin|Talk to the scout that joined your party.{***}
+qst_gesprach_mit_prisoner_mosoru|Find one of Mosoru riders and enquire him about the attack on Syarb's party.{***}
+qst_gesprach_mit_town_19_tavernkeeper|Ask the Tavern Keeper.{***}
+qst_defeat_group_masnerian_mercenaries|Defeat the group of Masnerian Mercenaries.{***}
+qst_gesprach_mit_town_19_mayor|Ask the Guild Master.{***}
+qst_vertrag_mit_augustus|Sign a contract with Augustus Makmix, the leader of the Freelancer Guild.{***}
+qst_defeat_group_freelancer_deserters|Defeat the group of Freelancer Deserters.{***}
+qst_escort_syabr_party|Escort Syabr's Party.{***}
+qst_talk_to_remus|Talk to Remus.{***}
+qst_defeat_group_sut_giant|Defeat a group of Sut Giants that wish to join the Wolf Knights.{***}
+qst_talk_to_silberfalke|Talk to Silberfalke.{***}
+qst_talk_to_konyk|Talk to Meadbrewer{***}
+qst_amazone_quest|Escort the Elderly Amazon.{***}
+qst_defeat_ankars_caravan|Defeat the Ankars Supply Caravan.{***}
+qst_talk_to_elderly_amazon|Talk to the Elderly Amazon.{***}
+qst_talk_to_captain_berkut|Talk to Captain Berkut.{***}
+qst_report_of_elderly_amazon|Report to the Elderly Amazon.{***}
+qst_defeat_squad_amazon|Defeat a Squad of Ankars.{***}
+qst_killed_joan_zwiebel|Defeat the party of Joan Zwiebel.{***}
+qst_defeat_tolranian_spymaster|Defeat the party of the Tolranian Spymaster.{***}
+qst_talk_to_requester|Talk to Requester.{***}
+qst_defeat_a_group_of_mercenary_warband|Defeat a Mercenary Warband.{***}
+qst_defeat_a_mysterious_group|Defeat a Mysterious Group.{***}
+qst_randomdorf_1|Put an end to the rampaging Nobles in {s10}.{***}
+qst_nibor_in_dorf|Defeat Nibor Hood's party in {s10}.{***}
+qst_strangerapier|Find the Rapier{***}
+qst_demonworshipbois|Deal with the Grazir Worshippers{***}
+qst_demonworshipbois_text|Faris of the Galwe Library has asked you to defeat Grazir worshippers near the city.{***}
+qst_defeat_the_dreaded_one| Defeat the Dreaded One{***}
+qst_defeat_the_dreaded_one_text|The Grazir worshippers have united around the Dreaded One near Galwe... Defeat him before a reign of terror descends on all of Perisno!{***}
+qst_defeat_the_dreaded_one_at_grazir|Finish off the Dreaded One{***}
+qst_defeat_the_dreaded_one_at_grazir_text|The Dreaded One has fled to his Shrine of Grazir; find the Shrine and defeat him once and for all!{***}
+qst_Collect_men| Collect 10 peasants{***}
+qst_learn_where_merchant_brother_is|Descubra onde os reféns estão sendo mantidos.
+qst_save_relative_of_merchant|Ataque a guarida dos saqueadores.
+qst_save_town_from_bandits|Salve a cidade dos bandidos.
+qst_freelancer_enlisted|Alistado nas Tropas do {s13}
+qst_freelancer_vacation|Alistado: sob dispensa.
+qst_freelancer_captured|Alistado: capturado.
+qst_freelancer_revolt|Alistado: revoltando-se.
+qst_freelancer_end|Fim das missões do Freelancer.
+qst_quests_end|Fim das missões.
